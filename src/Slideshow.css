@@ -1,0 +1,11 @@
+.slideshow
+{
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: fit-content;
+    justify-content: space-around;
+    font-size: 14pt;
+}
+
+
